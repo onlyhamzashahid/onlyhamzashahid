@@ -32,5 +32,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Here are some languages that I use commonly :
-Here are some languages that I use commonly.<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyhamzashahid&layout=compact)](https://github.com/onlyhamzashahid/github-readme-stats)
