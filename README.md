@@ -9,9 +9,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-Here are some languages that I use commonly.<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyhamzashahid&layout=compact)](https://github.com/onlyhamzashahid/github-readme-stats)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,5 +27,8 @@ Here are some languages that I use commonly.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbps
 </div>
+
+Here are some languages that I use commonly.<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyhamzashahid&layout=compact)](https://github.com/onlyhamzashahid/github-readme-stats)
