@@ -1,15 +1,13 @@
----
-
 ### :woman_technologist: About Me :
+
+### Hi there 👋
+### My name is Hamza Shahid.
+I am a learning being. I love to learn about technology and build stuff from it.
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-- 
-### Hi there 👋
-### My name is Hamza Shahid.
-I am a learning being. Love to learn about technology and building stuff from it.
 
 Here are some languages that I use commonly.<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyhamzashahid&layout=compact)](https://github.com/onlyhamzashahid/github-readme-stats)
